@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "titulo": "Culto Dominical",
+    "descricao": "Culto de louvor e adoração",
+    "data": "2025-08-25"
+  },
+  {
+    "id": "2",
+    "titulo": "Estudo Bíblico",
+    "descricao": "Estudo da carta aos Efésios",
+    "data": "2025-08-27"
+  },
+  {
+    "id": "3",
+    "titulo": "Culto",
+    "descricao": "Culto de família",
+    "data": "2025-08-31"
+  },
+  {
+    "id": "4",
+    "titulo": "Culto",
+    "descricao": "Culto de família",
+    "data": "2025-10-17"
+  }
+]
